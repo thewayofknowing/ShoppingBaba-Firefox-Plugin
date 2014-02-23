@@ -1,0 +1,2 @@
+ShoppingBaba-Firefox-Plugin
+===========================
